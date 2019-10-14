@@ -1,0 +1,2 @@
+C:\Users\lyss_\source\repos\Swite\Swite\obj\Debug\Swite.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\Swite\Swite\obj\Debug\Swite.csproj.CoreCompileInputs.cache
